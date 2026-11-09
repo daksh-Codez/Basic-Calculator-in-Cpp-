@@ -1,13 +1,23 @@
-Overview:
+## 📌 Project Overview
 
-<p align="center">
-  <img src="Screenshot 2026-11-09 at 18.34.53 copy.png" width="85%">
-</p>
+A simple command-line calculator developed using C++. This project performs basic arithmetic operations and demonstrates fundamental C++ programming concepts.
 
-<p align="center">
-  <img src="Screenshot 2026-11-09 at 18.34.56 copy.png" width="85%">
-</p>
+### ⚙️ Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-<p align="center">
-  <img src="Screenshot 2026-11-09 at 18.35.19 copy.png" width="85%">
-</p>
+### 🛠️ Topics Covered
+- C++ Basics
+- Variables and Data Types
+- User Input and Output (`cin` and `cout`)
+- Conditional Statements
+- Switch Case
+- Arithmetic Operators
+
+### 💻 Language
+- C++
+
+### 🎯 Objective
+To strengthen my understanding of C++ fundamentals through a practical beginner-level project.
