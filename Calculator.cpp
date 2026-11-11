@@ -19,7 +19,6 @@ int main() {
             cout << "Exiting calculator...";
             break;
         }
-
         if (choice < 1 || choice > 5) {
             cout << "Invalid choice!\n";
             continue;
