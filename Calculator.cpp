@@ -13,38 +13,38 @@ int main() {
         cout << "5. Exit\n";
 
         cout << "Enter your choice: ";
-        cin >> choice;
+            cin >> choice;
 
         if (choice == 5) {
             cout << "Exiting calculator...";
-            break;
+                break;
         }
         if (choice < 1 || choice > 5) {
             cout << "Invalid choice!\n";
-            continue;
+                continue;
         }
 
         cout << "Enter two numbers: ";
-        cin >> a >> b;
+            cin >> a >> b;
 
         switch (choice) {
             case 1:
                 cout << "Addition = " << a + b;
-                break;
+                    break;
             case 2:
                 cout << "Subtraction = " << a - b;
-                break;
+                    break;
             case 3:
                 cout << "Multiplication = " << a * b;
-                break;
+                    break;
             case 4:
                 if (b == 0) {
                     cout << "Cannot divide by zero!";
                 } else {
                     cout << "Division = " << a / b;
                 }
-                break;
-        }
-    } while (true);
+                    break;
+            }
+        } while (true);
     return 0;
 }
