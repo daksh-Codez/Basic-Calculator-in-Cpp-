@@ -1,4 +1,4 @@
-## 📌 Project Overview
+📌 Project Overview
 
 A simple command-line calculator developed using C++. This project performs basic arithmetic operations and demonstrates fundamental C++ programming concepts.
 
